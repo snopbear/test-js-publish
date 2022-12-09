@@ -1,0 +1,23 @@
+{
+  "name": "@snopbear/test-js-publish",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snopbear/test-js-publish.git"
+  },
+  "keywords": [
+    "test",
+    "publish"
+  ],
+  "author": "Assaf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snopbear/test-js-publish/issues"
+  },
+  "homepage": "https://github.com/snopbear/test-js-publish#readme"
+}

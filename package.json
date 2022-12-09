@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "test",
   "main": "index.js",
+  "publishConfig": {
+    "@snopbear:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "test": "run test"
   },
